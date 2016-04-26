@@ -1,1 +1,1 @@
-web: node kong-dashboard.js
+web: node kong-dashboard.js start
