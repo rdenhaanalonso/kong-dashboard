@@ -1,1 +1,1 @@
-web: node bin/kong-dashboard.js start
+web: node ./bin/kong-dashboard start
